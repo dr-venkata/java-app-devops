@@ -105,7 +105,7 @@ input[type=password] {
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1 class="footer-text">Dr. Venkata Ramana, Thank You, Happy Learning </h1>
+  <h1 class="footer-text">Dr. Venkata Ramana, Thank You, Happy Learning</h1>
 
 </form>
 
